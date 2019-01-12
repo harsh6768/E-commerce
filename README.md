@@ -1,6 +1,7 @@
-# flutter_e_commerce
+# Flutter E-Commerce App
 
-A new Flutter project.
+## Flutter is mobile sdk which will help to help real native app for both andorid and ios using Dart Language
+
 
 ## Getting Started
 
