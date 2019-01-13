@@ -4,11 +4,8 @@
 
 <img src="https://github.com/octivia/E-commerce/blob/master/Upload_Image/Screenshot_20190113-153759.png" alt="" 
 width="250" height="450" >.........................<img src="https://github.com/octivia/E-commerce/blob/master/Upload_Image/Screenshot_20190113-153803.png" alt="" width="250" height="450" >
-.
-.
-.
-<img src="https://github.com/octivia/E-commerce/blob/master/Upload_Image/Screenshot_20190113-153813.png"
-alt="" width="250" height="450" >.........................<img src="https://github.com/octivia/E-commerce/blob/master/Upload_Image/Screenshot_20190113-153822.png" alt="" width="250" height="450" >
+......... <img src="https://github.com/octivia/E-commerce/blob/master/Upload_Image/Screenshot_20190113-153813.png"
+alt="" width="250" height="450" >
 
 
 ## Getting Started
