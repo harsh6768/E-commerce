@@ -1,3 +1,6 @@
+#####
+#### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/pedromassango).Thanks!
+
 # Flutter E-Commerce App
 
 ### Flutter is a mobile sdk which will help to help real native app for both andorid and ios using Dart Language.Flutter uses material designs to implement all it's component.
