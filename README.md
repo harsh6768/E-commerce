@@ -1,4 +1,4 @@
-#Contribute to this Project
+## Contribute to this Project :heart: Star :heart:
 
 ### :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
